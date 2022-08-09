@@ -19,8 +19,12 @@ This is a list of Scripts/Resources that planned for purchase to use in the `Pro
 - [Parking Enforcer](https://kuzquality.com/package/4992726)
 - [Bodycam Script](https://snipe.tebex.io/package/4809917)
 - [Documents System](https://legendary-team.tebex.io/package/4365691)
+- [okokChatV2](https://okok.tebex.io/package/4967999)
+- [okokBilling](https://okok.tebex.io/package/4724911)
+- [okokContract](https://okok.tebex.io/package/5044425)
+- [QB-Core Zerio Radio](https://store.zerio-scripts.com/package/4998461)
 
-## MLO's 
+## MLO's
 
 - [Gabz - Map Subscription](https://fivem.gabzv.com/category/subscription)
 - [Flux Modding - McDonalds](https://flux-modding.tebex.io/package/4768908)
