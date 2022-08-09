@@ -7,6 +7,7 @@
 
 This Repositorie has information regaurding the development of the Golden Coast RP Communities QBCore Framework Server.
 
+Welcome aboard! QBCore is an ever-expanding framework for Grand Theft Auto V utilizing the FiveM platform. It offers extensive customization, ease of use, ongoing maintenance and active support!
 
 
 ## Documentation
@@ -17,10 +18,10 @@ This Repositorie has information regaurding the development of the Golden Coast 
 
 ## Features
 
-- 1
-- 2
-- 3
-- 4
+- Interact with objects to open menus.
+- Clean and Organized File System.
+- Better out of the box experience!
+- Very robust intergration.
 
 
 ## Related Documentation
@@ -41,7 +42,7 @@ This Repositorie has information regaurding the development of the Golden Coast 
 
 This project is being developed by
 
-Primay Developer : `James K.` 
+Primay Developer : `James K.`
 - Script Development
 - Server Development
 - Discord Development
