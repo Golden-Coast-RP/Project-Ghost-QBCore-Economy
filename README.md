@@ -12,7 +12,7 @@ Welcome aboard! QBCore is an ever-expanding framework for Grand Theft Auto V uti
 
 ## Documentation
 
-- [Scripts To Purchase](https://github.com/Golden-Coast-RP/Project-Ghost-QBCore-Economy/blob/main/scriptstopurchase.md)
+- [Scripts To Purchase](https://github.com/Golden-Coast-RP/Project-Ghost-QBCore-Economy/blob/main/purchase.md)
 
 
 
@@ -57,4 +57,3 @@ Assistant Developer : `Caleb B.`
 [![Discord](https://img.shields.io/discord/798498335123046402?label=Discord)](https://discord.gg/KGpmHUueER)
 [![Server](https://img.shields.io/badge/Server-Connect-yellowgreen)](https://cfx.re/join/zlq38d)
 [![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
-

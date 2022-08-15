@@ -6,8 +6,6 @@
 This is a list of Scripts/Resources that planned for purchase to use in the `Project Ghost - QBCore Framework` server.
 
 
-
-
 ## Scripts
 
 - [High Scripts - High Phone](https://www.high-scripts.com/package/4696722?currency=USD)
