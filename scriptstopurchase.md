@@ -32,3 +32,11 @@ This is a list of Scripts/Resources that planned for purchase to use in the `Pro
 - [Gabz - Map Subscription](https://fivem.gabzv.com/category/subscription)
 - [Flux Modding - McDonalds](https://flux-modding.tebex.io/package/4768908)
 - [Limeys's Juice Bar](https://hanestudios.tebex.io/package/4527096) - (Later Time For Update)
+
+## Vehicles
+
+- [2022 Prison van pack](https://troopercorentin.com/products/2022-prison-van-pack?variant=40910566686925) $10.16
+- [Prison Bus](https://troopercorentin.com/products/prison-bus) $5.16
+- [Police S.W.A.T Rook](https://troopercorentin.com/products/police-rook) $5.16
+- [Police S.W.A.T Gurkha](https://troopercorentin.com/products/police-s-w-a-t-gurkha) $5.16
+- [Police S.W.A.T 2014 Generic SUV](https://troopercorentin.com/products/police-s-w-a-t-2014-generic-suv) $5.16
