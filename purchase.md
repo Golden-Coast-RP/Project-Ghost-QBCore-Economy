@@ -30,6 +30,7 @@ This is a list of Scripts/Resources that planned for purchase to use in the `Pro
 - [Gabz - Map Subscription](https://fivem.gabzv.com/category/subscription)
 - [Flux Modding - McDonalds](https://flux-modding.tebex.io/package/4768908)
 - [Limeys's Juice Bar](https://hanestudios.tebex.io/package/4527096) - (Later Time For Update)
+- [Paleto Clinic Hospital](https://igro45.tebex.io/package/5127450?currency=USD)
 
 ## Vehicles
 
