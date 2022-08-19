@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>es-playerhudv2</title>
+    <link rel="stylesheet" href="../assets/css/app.css">
+</head>
+
+<div id="app">
+    <div class="hud">
+        <logo></logo>
+        <online><h1>{{user.all}}</h1><h2>Online</h2></online>
+        <date><h1>{{user.time}}</h1><h2>{{user.date}}</h2></date>
+        <player><id>ID:{{user.id}}</id></player>
+        <cash><h1>{{new Intl.NumberFormat('en-US', { style: 'currency', currency: 'USD', }).format(user.cash)}}</h1></cash>
+        <bank><h1>{{new Intl.NumberFormat('en-US', { style: 'currency', currency: 'USD', }).format(user.bank)}}</h1></bank>
+    </div>
+    <div class="help">
+      <div class="border" v-for="key in keybinds">
+          <icon :style="{'background-image': `url(./assets/img/${key.icon})`}"></icon>
+          <keybinds><h1>{{key.bind}}</h1></keybinds>
+          <border><h1>{{key.label}}</h1></border>
+      </div>
+</div>
+
+<script src="./assets/lib.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/vue@2"></script>
+<script src="./vue.js"></script>
+<script src="https://code.jquery.com/jquery-3.5.0.js"></script>
+</body>
+
+</html>
