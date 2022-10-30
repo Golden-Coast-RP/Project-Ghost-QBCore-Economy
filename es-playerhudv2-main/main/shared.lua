@@ -12,6 +12,5 @@ Config.Keys = {
 
 Config.Settings = {
     ["Key Combination Command"] = "help",
-    ["Framework Preference"] = "ESX", -- QBCore or ESX or OLDQBCore --
+    ["Framework Preference"] = "QBCore", -- QBCore or ESX or OLDQBCore --
 }
-
