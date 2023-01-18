@@ -1,4 +1,5 @@
-- [ ] Item 1
-- [ ] Item 2
-- [ ] Item 3
-- [ ] Item 4
+- [ ] Get Server Up ([Introduction - QBCore Documentation](https://docs.qbcore.org/qbcore-documentation/))
+- [ ] Install EUP
+- [ ] Install Vehicles
+- [ ] Configure Scripts
+- [ ] 
