@@ -8,19 +8,19 @@ This is a list of Scripts/Resources that planned for purchase to use in the `Pro
 
 ## Scripts
 
-- [High Scripts - High Phone](https://www.high-scripts.com/package/4696722?currency=USD)
-- [High Scripts - High Loading](https://www.high-scripts.com/package/4800409)
-- [High Scripts - High 3DSOUNDS](https://www.high-scripts.com/package/5035810)
-- [QBCore Tequi-la-la Job](https://jimathy666.tebex.io/package/4912104) - Purchesed
-- [Tequi-la-la MLO](https://hassarics-maps.tebex.io/package/4441821?currency=USD) - Purchesed
+- ~~[High Scripts - High Phone](https://www.high-scripts.com/package/4696722?currency=USD)~~
+- ~~[High Scripts - High Loading](https://www.high-scripts.com/package/4800409)~~
+- ~~[High Scripts - High 3DSOUNDS](https://www.high-scripts.com/package/5035810)~~
+- [QBCore Tequi-la-la Job](https://jimathy666.tebex.io/package/4912104) - Purchased
+- [Tequi-la-la MLO](https://hassarics-maps.tebex.io/package/4441821?currency=USD) - Purchased
 - [QBCore | McDonald's System and Job with Phone Applications](https://summit-store.tebex.io/package/5075572)
-- [Core Inventory (QB)](https://www.c8re.store/package/5121548)
+- ~~[Core Inventory (QB)](https://www.c8re.store/package/5121548)~~
 - [D&P - Tattoo Shop](https://dp-store.tebex.io/package/4958467?currency=USD)
 - [Parking Enforcer](https://kuzquality.com/package/4992726)
 - [Bodycam Script](https://snipe.tebex.io/package/4809917)
 - [Documents System](https://legendary-team.tebex.io/package/4365691)
-- [okokChatV2](https://okok.tebex.io/package/4967999)
-- [okokBilling](https://okok.tebex.io/package/4724911)
+- [okokChatV2](https://okok.tebex.io/package/4967999) - Purchased
+- [okokBilling](https://okok.tebex.io/package/4724911) - Purchased
 - [okokContract](https://okok.tebex.io/package/5044425)
 - [QB-Core Zerio Radio](https://store.zerio-scripts.com/package/4998461)
 - [Tesla Resources Bund](https://playlolly.tebex.io/package/5112146) [Main Site](https://www.playlolly.net/)
