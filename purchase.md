@@ -22,7 +22,7 @@ This is a list of Scripts/Resources that planned for purchase to use in the `Pro
 - [okokChatV2](https://okok.tebex.io/package/4967999) - Purchased
 - [okokBilling](https://okok.tebex.io/package/4724911) - Purchased
 - [okokContract](https://okok.tebex.io/package/5044425)
-- [QB-Core Zerio Radio](https://store.zerio-scripts.com/package/4998461)
+- ~~[QB-Core Zerio Radio](https://store.zerio-scripts.com/package/4998461)~~
 - [Tesla Resources Bund](https://playlolly.tebex.io/package/5112146) [Main Site](https://www.playlolly.net/)
 - [r_scripts | QB - RedLine Tuning Job V2 (tebex.io)](https://rscripts.tebex.io/package/5164051)
 
